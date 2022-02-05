@@ -4,16 +4,18 @@ namespace M2HW5
 {
     public class Logger : ILogger
     {
-        public Logger(IFileService fileService)
+        public Logger(IFileService fileService, INotificationService notificationService)
         {
             FileService = fileService;
+            NotificationService = notificationService;
         }
 
         public IFileService FileService { get; set; }
+        public INotificationService NotificationService { get; set; }
 
         public void PrintLog(string log)
         {
-            Console.WriteLine(log);
+            NotificationService.ShowMsg(log);
         }
 
         public void WriteLogIntoFile(string log)

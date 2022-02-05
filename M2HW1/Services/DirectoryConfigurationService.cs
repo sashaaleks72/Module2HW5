@@ -13,8 +13,6 @@ namespace M2HW5
 
         public DirectoryConfig DeserializeDirectoryConfig(string jsonFilePath)
         {
-            SerializeDirectoryConfig(new DirectoryConfig(@"C:\Users\sasha\source\repos\Module2HW5\M2HW1\Logs"), jsonFilePath);
-
             string configFile = File.ReadAllText(jsonFilePath);
             DirectoryConfig directoryConfig = JsonConvert.DeserializeObject<DirectoryConfig>(configFile);
             return directoryConfig;
