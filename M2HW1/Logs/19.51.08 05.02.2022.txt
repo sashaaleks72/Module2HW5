@@ -1,0 +1,170 @@
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Warning: Action got this custom Exception: I broke a logic
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Info: Start method: WriteInfoLog
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32
+05.02.2022 19:51:08: Error: Action failed by reason: M2HW5.BusinessException: Skipped logic in method
+   at M2HW5.Actions.GetBusinessException() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Models\Actions.cs:line 22
+   at M2HW5.Starter.Run() in C:\Users\sasha\source\repos\Module2HW5\M2HW1\Starter.cs:line 32

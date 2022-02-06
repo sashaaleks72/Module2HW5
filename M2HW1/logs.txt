@@ -1,0 +1,100 @@
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Info: Start method: PrintInfoLog
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Error: Action failed by a reason: I broke a logic
+19.01.2022 21:54:48: Warning: Skipped logic in method: PrintWarningLog
